@@ -2,6 +2,8 @@
 
 JobFit AI is an LLM-powered career toolkit designed to help job seekers streamline their job application processes, refine resumes, and prepare for interviews. Built with OpenAI, LangChain, and Streamlit, JobFit AI offers tools to enhance users' job search journey with intelligent insights and personalized resources.
 
+![image](https://github.com/user-attachments/assets/74a98fb6-d885-4339-94b3-7a097535d5af)
+
 ## Features
 
 1. **Resume Analyzer**  
@@ -15,6 +17,8 @@ JobFit AI is an LLM-powered career toolkit designed to help job seekers streamli
 
 4. **Interview Preparation**  
    Access tailored interview questions based on specific job roles and skills. Practice with AI-generated feedback to improve responses, boost confidence, and enhance readiness for real interviews.
+
+![image](https://github.com/user-attachments/assets/4b832ae5-9e71-44dd-af60-1e72db9b0cb6)
 
 ## Tech Stack
 
